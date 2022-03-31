@@ -1,4 +1,4 @@
 from Cpf import Cpf
 
-cpf = Cpf(14954312744)
+cpf = Cpf(01234567890)
 print(cpf)
